@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+ <mail-config>
+  <smtp-server>smtp.mail.yahoo.com</smtp-server>
+  <smtp-port>465</smtp-port>
+  <use-smtp-SSL>true</use-smtp-SSL>
+  <use-smtp-auth>true</use-smtp-auth>
+  <imap-server>imap.mail.yahoo.com</imap-server>
+  <imap-port>993</imap-port>
+  <use-imap-SSL>true</use-imap-SSL>
+  <user>giacomo.mattiuzzi@rocketmail.com</user>
+  <password>kG8Za3f0Q8LVzlXUEvVKiA==</password>
+  <use-imap-auth>true</use-imap-auth>
+  <mail-address-from>giacomo.mattiuzzi@rocketmail.com</mail-address-from>
+  <mail-subject-monitorig>CONTENTS: TORRENTS</mail-subject-monitorig>
+ </mail-config>
+<watch-dir>/home/giamat/tmp/</watch-dir>
+</settings>
